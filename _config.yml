@@ -1,0 +1,28 @@
+name: Cherrystoo Design
+favicon: null
+layout_spectrum: 0.03614099672995508
+typography_spectrum: 0.4310574163682759
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5050843148492277
+  lightness: 0.4685273503419012
+  saturation: 0.4272222728468478
+  rhythmicContrast: 0.6408681806642562
+purpose: []
