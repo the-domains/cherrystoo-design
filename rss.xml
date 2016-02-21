@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Cherrystoo Design]]></title>
         <description><![CDATA[Cherrystoo Design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cherrystoo-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 21:53:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Feb 2016 22:06:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cherrystoo-design/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/968261c4-5e13-43d8-a39d-8c2c66e1e5be.png">]]></description>
-            <link>undefined27bbaafc-528b-469e-aadc-1a50b9a0475f/index.html</link>
+            <title><![CDATA[TEST PIX 01]]></title>
+            <description><![CDATA[<article><h1>TEST PIX 01</h1><p>LOGO DESIGN SAMPLE TOO</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0b64a593f5f9fea0ab5c7e6c9fbe8ce80ff73a4.png"></article>]]></description>
+            <link>https://thegrid.ai/cherrystoo-design/27bbaafc-528b-469e-aadc-1a50b9a0475f/index.html</link>
             <guid isPermaLink="false">27bbaafc-528b-469e-aadc-1a50b9a0475f</guid>
-            <pubDate>Sun, 21 Feb 2016 21:52:29 GMT</pubDate>
+            <pubDate>Sun, 21 Feb 2016 22:06:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
